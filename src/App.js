@@ -3,7 +3,7 @@ import './App.css';
 import img from './Q.jpg';
 
 
-document.title = 'Queering Christianity - Anxin Zhang';
+document.title = 'Queering Religion';
 function App() {
   return (
     <div>
